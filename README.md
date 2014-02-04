@@ -1,2 +1,2 @@
-Javascript-DOM
+JavaScript-DOM
 ==============
